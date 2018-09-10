@@ -16,4 +16,17 @@
 
 ![alt text](https://github.com/mahbubcseju/Automatic-Image-Stitching-using-Feature-Based-Method-/blob/master/Input%20set%20(Original)/4.jpg)
 
+
+
+**Image Set After Enhancement**
+
+
+
+![alt text](https://github.com/mahbubcseju/Automatic-Image-Stitching-using-Feature-Based-Method-/blob/master/Input%20set%20(After%20enhanced)/1.jpg)
+![alt text](https://github.com/mahbubcseju/Automatic-Image-Stitching-using-Feature-Based-Method-/blob/master/Input%20set%20(After%20enhanced)/2.jpg)
+![alt text](https://github.com/mahbubcseju/Automatic-Image-Stitching-using-Feature-Based-Method-/blob/master/Input%20set%20(After%20enhanced)/3.jpg)
+![alt text](https://github.com/mahbubcseju/Automatic-Image-Stitching-using-Feature-Based-Method-/blob/master/Input%20set%20(After%20enhanced)/4.jpg)
+
+
+**Final Output Image(Panaroma)**
 ![alt text](https://github.com/mahbubcseju/Automatic-Image-Stitching-using-Feature-Based-Method-/blob/master/Original%20Image/Image.jpg)
