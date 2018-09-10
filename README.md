@@ -2,7 +2,7 @@
 
 **This is our(me and [Monikrishna Roy](https://github.com/moni-roy/)) Final year project on Image Stitching**
 
-[Here is the PDF of the documentaion.](https://github.com/mahbubcseju/Automatic-Image-Stitching-using-Feature-Based-Method-/blob/master/FinalImageStitching.pdf)
+![Here is the PDF of the documentaion.](https://github.com/mahbubcseju/Automatic-Image-Stitching-using-Feature-Based-Method-/blob/master/poster.pdf)
 
 **Input Image Set**
 
